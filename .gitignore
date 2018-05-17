@@ -1,0 +1,13 @@
+/.settings
+/.project
+/birtrpt-domain/.settings
+/birtrpt-domain/target
+/birtrpt-env/.settings
+/birtrpt-env/target
+/birtrpt-initdb/.settings
+/birtrpt-initdb/target
+/birtrpt-selenium/.settings
+/birtrpt-selenium/target
+/birtrpt-web/.settings
+/birtrpt-web/target
+/birtrpt-web/src/main/webapp/WEB-INF/lib/*
